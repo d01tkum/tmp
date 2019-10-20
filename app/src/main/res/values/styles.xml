@@ -3,8 +3,8 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/ourPurple</item>
+        <item name="colorPrimaryDark">@color/ourPurple</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
@@ -12,7 +12,7 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_marginBottom">8dp</item>
         <item name="android:paddingLeft">8dp</item>
-        <item name="android:background">@color/ourBlack</item>
+        <item name="android:background">@color/ourWhite</item>
         <item name="android:textColor">@color/ourWhite</item>
         <item name="android:textAppearance">@android:style/TextAppearance.Large</item>
     </style>
